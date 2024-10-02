@@ -66,6 +66,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
+  address: "Isparta/Turkey",
   phoneNo: "+90 505 470 1415",
   email: "nisaergun.21@gmail.com",
 };
