@@ -1,4 +1,5 @@
 import About from "./components/About";
+import Experiences from "./components/Experiences";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Technologies from "./components/Technologies";
@@ -21,6 +22,9 @@ const App = () => {
                 </div>
                 <div className="mx-auto my-8 max-w-3xl">
                     <Technologies />
+                </div>
+                <div className="mx-auto my-8 max-w-3xl">
+                    <Experiences />
                 </div>
             </div>
         </div>

@@ -27,6 +27,7 @@ export const EXPERIENCES = [
     role: "Trainee",
     company: "Google Game and App Academy",
     description: `I completed Flutter training at the academy, where I developed applications and gained skills in UI/UX design using Figma. Additionally, I received training in Project Management and Technology Entrepreneurship.`,
+    technologies: ["Flutter", "Figma", "Firebase", "Unity"],
   },
 ];
 
