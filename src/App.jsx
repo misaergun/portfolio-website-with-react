@@ -1,6 +1,7 @@
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Experiences from "./components/Experiences";
+import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
@@ -33,6 +34,9 @@ const App = () => {
                 </div>
                 <div className="mx-auto my-8 max-w-3xl">
                     <Contact /> 
+                </div>
+                <div className="mx-auto my-8 max-w-3xl">
+                    <Footer /> 
                 </div>
             </div>
         </div>
