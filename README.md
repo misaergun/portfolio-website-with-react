@@ -16,7 +16,7 @@ Welcome to my personal portfolio website! This site showcases my projects, exper
 - EmailJS
 
 ## Live Demo
-You can view the live version of my portfolio [here](muberra-nisa-ergun-portfolio.vercel.app).
+You can view the live version of my portfolio [here](https://muberra-nisa-ergun-portfolio.vercel.app/).
 
 ## Installation
 To run the project locally:
