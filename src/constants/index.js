@@ -2,6 +2,7 @@ import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
+import project5 from "../assets/projects/project-5.jpg";
 
 export const HERO_CONTENT = `I am a dedicated Computer Engineering student passionate about software development and creating innovative projects. My journey involves continuous learning and exploring new technologies, and I enjoy collaborating on diverse software solutions.`;
 
@@ -56,6 +57,12 @@ export const PROJECTS = [
     description:
       "Designed and built a racing car using Arduino, distance sensors, light sensors (LDR) and bluetooth sensor as part of a competition in my university. Programmed the car to navigate and race on tracks using sensor feedback. Gained experience in embedded systems, sensor integration, and real-time control.",
   },
+  {
+    "title": "Fashion App (In Development)",
+    image: project5,
+    description:
+      "A Flutter-based fashion app where users can explore, favorite, and share outfit combinations. Includes profile and search features, with certain sections requiring login.",
+  }
 ];
 
 export const CONTACT = {

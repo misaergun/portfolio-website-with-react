@@ -2,6 +2,7 @@ import About from "./components/About";
 import Experiences from "./components/Experiences";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
+import Projects from "./components/Projects";
 import Technologies from "./components/Technologies";
 
 const App = () => {
@@ -25,6 +26,9 @@ const App = () => {
                 </div>
                 <div className="mx-auto my-8 max-w-3xl">
                     <Experiences />
+                </div>
+                <div className="mx-auto my-8 max-w-3xl">
+                    <Projects />
                 </div>
             </div>
         </div>
