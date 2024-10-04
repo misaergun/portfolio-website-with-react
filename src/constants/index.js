@@ -13,7 +13,7 @@ export const EXPERIENCES = [
     year: "07.2023 - Present",
     role: "Flutter Developer Intern",
     company: "Kadriye Macit Software Ltd.",
-    description: `During my internship, I developed a Flutter application from scratch, establishing the software architecture. I gained proficiency in Flutter State Management using Bloc and Cubit. I translated Figma designs into functional code and integrated the frontend with the backend. Additionally, I conducted unit and Bloc testing for the application.`,
+    description: `During my internship, I developed a Flutter application from scratch, establishing the software architecture. I gained proficiency in Flutter State Management using Bloc and Cubit. I converted Figma designs into functional code and integrated the frontend with the backend. Additionally, I conducted unit and Bloc testing for the application.`,
     technologies: ["Flutter", "Bloc-Cubit", "Phyton-Django", "Figma", "Firebase"],
   },
   {
